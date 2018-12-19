@@ -4,6 +4,8 @@ The goal of the Yelp Me! application is to the recommend the best restaurant bas
 
 Users have the flexibility to provide a geographic location ranging from different states to cities. In addition, filter criteria can be added to refine the search. For example, users could search from the cheapest restaurants to the expensive ones. Once this information is entered, our application finds all the restaurants with their information and displays this information on the location map and also in the form of a table. User can hover on the map to check the names of these restaurants and also select a restaurant from the table to check it on the location map. 
 
+Application Walkthrough: https://drive.google.com/open?id=1xTdaQ6_UG_54jbV2u5PpJTZWro7aUO3j 
+
 *********************************** CONFIGURATION ***********************************
 
 == API Accounts ==
