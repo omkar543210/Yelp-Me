@@ -1,0 +1,42 @@
+{"code":"AL", "state":"Alabama", "city":["Auburn","Birmingham","Montgomery"]}			
+{"code":"AK", "state":"Alaska", "city":["Juneau"]}
+{"code":"AZ", "state":"Arizona", "city":["Phoenix"]}
+{"code":"AR", "state":"Arkansas", "city":["Little Rock"]}
+{"code":"CA", "state":"California", "city":["Sacramento","Los Angeles","San Fransisco","San Jose"]}
+{"code":"CO", "state":"Colorado", "city":["Denver"]}
+{"code":"CT", "state":"Connecticut", "city":["Hartford"]}
+{"code":"DE", "state":"Delaware", "city":["Dover"]}
+{"code":"FL", "state":"Florida", "city":["Tallahassee","Miami"]}
+{"code":"GA", "state":"Georgia", "city":["Atlanta"]}
+{"code":"HI", "state":"Hawaii", "city":["Honolulu"]}
+{"code":"ID", "state":"Idaho", "city":["Boise"]}
+{"code":"IL", "state":"Illinois", "city":["Springfield"]}
+{"code":"IN", "state":"Indiana", "city":["Indianapolis"]}
+{"code":"IA", "state":"Iowa", "city":["Des Moines"]}
+{"code":"KS", "state":"Kansas", "city":["Topeka"]}
+{"code":"KY", "state":"Kentucky", "city":["Frankfort"]}
+{"code":"LA", "state":"Louisiana", "city":["Baton Rouge"]}
+{"code":"ME", "state":"Maine", "city":["Augusta"]}
+{"code":"MD", "state":"Maryland", "city":["Annapolis"]}
+{"code":"MA", "state":"Massachusetts", "city":["Boston"]}
+{"code":"MI", "state":"Michigan", "city":["Lansing","Detroit"]}
+{"code":"MN", "state":"Minnesota", "city":["St. Paul"]}
+{"code":"MS", "state":"Mississippi", "city":["Jackson"]}
+{"code":"MO", "state":"Missouri", "city":["Jefferson City"]}
+{"code":"MT", "state":"Montana", "city":["Helena"]}
+{"code":"NE", "state":"Nebraska", "city":["Lincoln"]}
+{"code":"NV", "state":"Nevada", "city":["Carson City","Las Vegas"]}
+{"code":"NH", "state":"New Hampshire", "city":["Concord"]}
+{"code":"NJ", "state":"New Jersey", "city":["Trenton","Newark"]}
+{"code":"NM", "state":"New Mexico", "city":["Santa Fe"]}
+{"code":"NY", "state":"New York", "city":["Syracuse","New York City","Rochester","Buffalo","Albany","Utica","Ithica","Binghamton"]}
+{"code":"NC", "state":"North Carolina", "city":["Raleigh","Charlotte"]}
+{"code":"ND", "state":"North Dakota", "city":["Bismarck"]}
+{"code":"OH", "state":"Ohio", "city":["Columbus"]}
+{"code":"OK", "state":"Oklahoma", "city":["Oklahoma City"]}
+{"code":"OR", "state":"Oregon", "city":["Salem"]}
+{"code":"PA", "state":"Pennsylvania", "city":["Harrisburg"]}
+{"code":"TX", "state":"Texas", "city":["Austin","Dallas","Houston"]}
+{"code":"WA", "state":"Washington", "city":["Olympia", "Seattle"]}
+{"code":"WI", "state":"Wisconsin", "city":["Madison"]}
+{"code":"WY", "state":"Wyoming", "city":["Cheyenne"]}

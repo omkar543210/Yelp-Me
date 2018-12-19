@@ -1,0 +1,15 @@
+{"cuisine":"Japanese", "food":["sushi","japanese"]}
+{"cuisine":"American", "food":["burger", "hamburger", "hotdog", "mac and cheese","american","french fries"]}
+{"cuisine":"Dessert", "food":["waffle", "milk shake", "donut", "pastry", "cake"]}
+{"cuisine":"Italian", "food":["pizza","pasta", "italian"]}
+{"cuisine":"Mexican", "food":["tacos","mexican"]}
+{"cuisine":"Chinese", "food":["chineese"]}
+{"cuisine":"Korean", "food":["korean"]}
+{"cuisine":"Indian", "food":["indian"]}
+{"cuisine":"Bar", "food":["bar"]}
+{"cuisine":"Deli", "food":["deli"]}
+{"cuisine":"Gluten Free Food", "food":["gluten"]}
+{"cuisine":"Meat", "food":["chicken", "chicken nuggets", "wings","turkey","pork","beef","steak"]}
+{"cuisine":"Sandwiches", "food":["sandwich"]}
+{"cuisine":"Eggs", "food":["egg"]}
+{"cuisine":"Corn Food", "food":["corn"]}
