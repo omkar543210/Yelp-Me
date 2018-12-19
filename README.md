@@ -5,6 +5,7 @@ The goal of the Yelp Me! application is to the recommend the best restaurant bas
 Users have the flexibility to provide a geographic location ranging from different states to cities. In addition, filter criteria can be added to refine the search. For example, users could search from the cheapest restaurants to the expensive ones. Once this information is entered, our application finds all the restaurants with their information and displays this information on the location map and also in the form of a table. User can hover on the map to check the names of these restaurants and also select a restaurant from the table to check it on the location map. 
 
 *********************************** CONFIGURATION ***********************************
+
 == API Accounts ==
 
 In order to use the Yelp Me application, a user must have registered an account with the Mapbox API.  The steps to create a mapbox account and generate the access tokens is given below.   
@@ -29,27 +30,42 @@ The data sub-directory must be located in the directory where the python code re
 
 == Install Dependencies ==
 
-          i.    pip install dash==0.31.1  # The core dash backend
-          ii.   pip install dash-html-components==0.13.2  # HTML components
-          iii.  pip install dash-core-components==0.38.1  # Supercharged components
-          iv.   pip install dash-table==3.1.7  # Interactive DataTable component
-          v.    pip install dash-table-experiments==0.6.0
-
+i.    pip install dash==0.31.1  # The core dash backend
+	  
+ii.   pip install dash-html-components==0.13.2  # HTML components
+	  
+iii.  pip install dash-core-components==0.38.1  # Supercharged components
+	  
+iv.   pip install dash-table==3.1.7  # Interactive DataTable component
+	  
+v.    pip install dash-table-experiments==0.6.0
+	  
 Find the Documentation here: https://dash.plot.ly/
+
  
 1.      Plotly- Install plotly-python from PyPI using: pip install plotly
-        Run the following code in python - 
+
+        Run the following code in python after installing plotly - 
+	
 		    import Plotly
+		    
 		    Plotly.tools.set_credentials_file(username=‘Your Username’, api_key=‘Your API key’)
-        Find the Documentation here: https://plot.ly/python/getting-started/
+		
+Find the Documentation here: https://plot.ly/python/getting-started/
+	
+	
  
 2.      TextBlob- Install TextBlob-python from PyPI using:  pip install -U textblob
-        Find the Documentation here: https://textblob.readthedocs.io/en/dev/
 
-=====================
+Find the Documentation here: https://textblob.readthedocs.io/en/dev/
+	
+
+================================================================
+
 After all of the configuration steps have been completed, the Yelp Me application is ready to be run.  In order to start the application, open your terminal and run the following command - 
 
 python YelpMe.py
+
 
 The output of this command will be as follows -  
 
@@ -67,5 +83,7 @@ Debugger PIN: 330-499-856
 Enter the url mentioned after "Running On" on your browser and the application is started.
 
 *********************************** Limitations ***********************************
+
 == Mapbox API ==
+
 The location map provided by the MapBox API does not take the correct latitude and longitude values when the map is zoomed out to the maximum level during initialization. 
